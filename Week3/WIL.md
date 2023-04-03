@@ -25,4 +25,4 @@ local repository : 어쨋든 결과물을 보여주는 공간
 push
 remote repository : git hub 같은 곳에서 관리하는 서버같은 느낌
 
-이러한 과정들을 복습하고 push과정을 거쳐 등록하는 것을 잘 알게 되었음.
+이러한 과정들을 복습하고 push과정을 거쳐 등록하는 것을 잘 알게 되었음. 
